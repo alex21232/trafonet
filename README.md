@@ -3,7 +3,10 @@ De Que Trata Trafonet?
 
 Trafonet es una empresa que busca ayudar a las personas para que puedan facilitarle comprar boletos para viajar.
 
-![image](https://github.com/alex21232/trafonet/assets/110498995/0716f730-e58c-4c8a-9a57-b75abfc8e146)
+![image](https://github.com/alex21232/trafonet/assets/110498995/c571dd76-b9aa-40f9-8e0f-e3ef134c220e)
+
+![image](https://github.com/alex21232/trafonet/assets/110498995/ca8800d6-f8e3-4083-a61e-e4b12f329674)
+
 
 
 Lenguajes De Codigos
