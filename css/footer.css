@@ -1,0 +1,68 @@
+/*estilo de columna*/
+
+.columna{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.columna h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(221, 221, 221);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+
+.columna a{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    display: flex;
+    margin-top: 10px;
+}
+
+.contacto {
+    background-image: url();
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    background-attachment: fixed;
+    
+}
+
+.footer{
+    margin-top: auto;
+    background-color: rgb(190, 38, 38);
+    padding: 5px 20px 5px 20px;
+    width: 100vw;
+}
+
+.footer div{
+    position: relative;
+    bottom: 0;
+    width: 100vw;
+    height: 60px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.footer div a{
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+
+
+.contacto3{
+
+    width: 7vw;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    background-attachment: fixed;
+    border-radius: 10px;
+}

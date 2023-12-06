@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    
+
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background-color: #000000;
+}
+
+body::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color:  #000000;
+}
+
+.inicio{
+    position: relative;
+    top: 3em;
+    width: 100vw;
+    height: 110vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+    background-color: #da4a37;
+
+}
+.inicio-cont{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.registro-ingreso{
+    width: 50%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    right: 13em;
+    
+}
+
+
+.comida{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.comida img{
+    display: flex;
+   width: 15em;
+   height: 15em;
+    position: relative;
+}
+
+.registro-ingreso h1{
+    color: #000000; 
+    font-size:  2.8rem;
+    font-family: arial system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: fit-content;
+}
+
+.registro-ingreso-btn{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.registro-ingreso-btn a{
+    padding: 5px 15px 5px 15px;
+    border-radius: 100vh;
+    color: rgb(0, 0, 0);
+    font-size: 1,4em;
+    text-decoration: none;
+    justify-content: center;
+    transition: .2s;
+    width: 40%;
+    display: flex;
+    margin: auto;
+}
+
+.btn-r{
+    background-color:#E7604D;
+    border: 3px solid rgba(0, 0, 0, 0.500);
+    border-radius: 40%;
+}
+
+.btn-r:hover{
+    color:rgb(0, 0, 0);
+    border: 3px solid #242323;
+    background-color: #E7604D;
+    transition: .2s;
+    
+}
+
+.btn-i{
+    border: 3px solid salmon;
+    color: #E7604D;
+}
+
+.btn-i:hover{
+    color: rgba(0, 0, 0, 0.267);
+    border: 3px solid slateblue;
+    transition: .2s;
+}
+
+.btn-1{
+    background-color: #E7604D;
+    border: 3px solid rgba(0, 0, 0, 0.500);
+    border-radius: 40%;
+}
+
+.btn-1:hover{
+    color:rgb(0, 0, 0);
+    border: 3px solid #333333;
+    background-color:#E7604D;
+    transition: .2s;
+}
+
+button {
+    border: 0px;
+    background-color: rgb(170, 170, 170);
+    border-radius: 8px;
+}

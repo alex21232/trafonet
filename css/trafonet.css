@@ -1,0 +1,145 @@
+main{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.aprendizaje-sec,.pizza-sec,.impulsa-sec{
+    width: 100vw;
+    justify-self: center;
+    align-items: center;
+    display: flex;
+}
+
+.pizza-cont,.aprendizaje-cont,.impulsa-cont {
+    width: 70%;
+    justify-self: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+
+
+main br{
+    width: 85%;
+    background-color: blueviolet;
+    border: none;
+    height: 8px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+img{
+    display: block;
+    height: 100%;
+    width: fit-content;
+    align-items: flex-end;
+}
+
+.logo{
+    width: 170px;
+    margin-left: 30px;
+    display: flex;
+    margin-top: 35px;
+
+}
+
+.titulo-parrafo{
+    width: 60%;
+    text-align: center;
+    margin-right: 100px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    height: 100%;
+    z-index: 100;
+    margin-top: 100px;
+    
+}
+
+.titulo-parrafo h2{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+    font-size: 2.5em;
+    align-items: center;
+    margin-left: 270px;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    margin-top: 10px;
+    line-height: 25px;
+    margin-left: 170px;
+}
+.impulsa-cont,.titulo-parrafo{
+    width: 72%;
+
+}
+.aprendizaje-cont,.titulo-parrafo{
+    width: 100%;
+}
+
+.aprendizaje-sec{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.aprendizaje-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.aprendizaje-eficiente{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 100vw;
+    padding: 30%;
+    font-size: 2.5em;
+    width: fit-content;
+    color: darkgreen;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+
+}
+
+.contenedor-aprendizaje{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.aprendizaje-img-1, .aprendizaje-img-3{
+    width: 10em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.aprendizaje-img-2{
+    width: 7.5em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+.aprendizaje-img-4{
+    width: 12em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
